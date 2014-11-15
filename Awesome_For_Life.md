@@ -1,0 +1,28 @@
+## Awesome For Life ##
+
+- [**功夫熊**](http://gfxiong.com/) 中医理疗师上门服务
+- [**挂号网**](http://www.guahao.com/) 在线预约挂号
+- [**PhotoMath**](https://photomath.net) 计算会死星人的救星
+- [**Instant RSS Search**](http://ctrlq.org/rss/)
+- [**How To Build Your Hardware Startup The Course**](http://blog.upverter.com/how-to-build-your-hardware-startup-the-course)
+- [**穿针引线**](http://www.eeff.net/navigation.php) 服装服饰领域垂直行业
+- [**App Solution**](http://app.so/) 推荐新奇应用
+- [**Ziba**](http://www.wired.com/2014/10/bold-vision-future-postage-stamp) 激光印章，持续关注
+- [**望才招聘**](http://www.matchcv.com/)
+- [**Selfstore**](https://selfstore.io/) 面向独立创作者的在线商店
+- [**丸子地球**](http://www.wanzi.cc/) 专业预定海外中文向导
+- [**Sleep Ingspider**](https://sleepingspider.com)Monitor web page changes
+- [**番茄土豆**](https://pomotodo.com/app/)
+- [**新味**](http://www.xinweicook.com/) 用户只需在网上点菜，就能收到按照食谱配送的原生态食材，全程冷链运输，上海内环以内当日送达，其余地区次日送达
+- [**在线视频种子播放**](http://joker.org/)
+- [**免费应用托管分发平台**](http://www.pgyer.com/)
+- [**Launch This Year**](http://launchthisyear.com/) Join 20,000+ makers, artists, and creators who are launching their online business this year.
+- [**My Morning Routine**](http://mymorningroutine.com/) 我的一早
+- [**Steller**](https://steller.co/?) Everyone has a story to tell.
+- [**Slimwiki**](https://slimwiki.com/) Beautiful Wiki For Team
+- [**Less Mail**](http://robingets.me/lessmail) Mail Assistants
+- [**App208**](http://www.app208.com/) 面向投资人的 Tiny
+- [**Duolingo**](https://www.duolingo.com) 多国语言学习
+- [**Hear Startup**](http://hearstartup.com/)
+- [**Startup Utility**](http://www.startuputility.com/)
+- [**Startup Edition**](http://startupedition.com/)
